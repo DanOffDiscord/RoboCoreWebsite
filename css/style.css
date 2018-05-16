@@ -1,6 +1,6 @@
 body {
 	background-color: hsl(0, 0%, 21%);
-	height: 100vh;
+	min-height: 100vh;
 }
 nav.navbar {
 	background-color: #2a2a2a;
