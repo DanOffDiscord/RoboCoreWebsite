@@ -1,0 +1,48 @@
+body {
+	background-color: hsl(0, 0%, 21%);
+	min-height: 500vh;
+}
+nav.navbar {
+	background-color: #2a2a2a;
+}
+a.navbar-item {
+	color: white;
+}
+a.navbar-item:hover {
+	background-color: transparent;
+	color: lightgrey;
+}
+p.web-dev-color {
+	color: blue !important;
+}
+p.dev-color {
+	color: red !important;
+}
+p.management-color {
+	color: aqua !important;
+}
+p.founder-color {
+	color: green !important;
+}
+p.staff-color {
+	color: purple !important;
+}
+img {
+	border-radius: 100%;
+}
+img:hover {
+	transition: transform ease 1s;
+	transform: rotate(360deg);
+}
+.box {
+	background-color: hsl(0, 0%, 21%);
+}
+.title {
+	color: white;
+}
+.media-content {
+	overflow-y: hidden;
+}
+.icon:hover {
+	color: lightblue;
+}
