@@ -197,6 +197,9 @@ body a:focus {
     font-weight: 800;
     margin: .6em 0;
 }
+h2.banner-robocoretext:hover {
+    color: #ff7200;
+}
 .banner-robocoretext h5 {
     font-size: 2em;
     color: #969696;
